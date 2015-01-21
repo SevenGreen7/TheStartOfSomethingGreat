@@ -1,0 +1,30 @@
+JavaScript is an object oriented language:
+
+Objects have properties menu forms have check boxes or documents have titles
+
+Objects can have sub objects
+
+The things that these objects can do are called methods
+
+() refers to a method
+
+Dot syntax is the use of putting together objects properties and methods using dots such as cat.paws.front.left
+
+examples of objects and methods in dot syntax cat.purr()
+
+The representation of objects within documents is called DOM or Document Object Model
+
+Objects on the tree structure are called nodes nodes with html tags are called element nodes Otherwise it is reffered to as a text node
+
+events are actions the user performs while visiting your page
+
+event handlers are commands for events
+
+List of common event handlers: onabort, onblur, onchange, onclick, onerror, onfocus, onload, onmouseover, onmouseout, onselect, onsubmit, onunload
+
+An id can be on any given page one time and only one time therefor one is a number and # is the symbol for numbers so tht is the symbol for id's
+
+A function is a set of javascript statements that perform a task
+
+When clicking on a link you can show an alert saying whatever you want to before the linked page loads up.
+
